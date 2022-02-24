@@ -1,0 +1,25 @@
+{
+  "name": "json-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jiaojiaojiaoCpbr/json-server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jiaojiaojiaoCpbr/json-server/issues"
+  },
+  "homepage": "https://github.com/jiaojiaojiaoCpbr/json-server#readme",
+  "devDependencies": {
+    "@faker-js/faker": "^6.0.0-alpha.5"
+  },
+  "dependencies": {
+    "prettier": "^2.5.1"
+  }
+}
